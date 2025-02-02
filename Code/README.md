@@ -51,6 +51,7 @@ pip install PyPDF2 pyttsx3
    ```bash
    python filename.py
    ```
+   
 6. **Select PDF:** A file dialog will appear; select your PDF.
 7. **Listen to Audio:** The PDF content will be read aloud automatically.
 
